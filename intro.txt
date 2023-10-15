@@ -1,2 +1,3 @@
 My Name is Manish
 I Have Completed B.Tech CSIT 
+My Skills are Frontend Developer and Mern Stack Developer 
